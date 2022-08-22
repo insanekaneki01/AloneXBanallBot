@@ -32,8 +32,8 @@
 <h3><strong><i>Forks nd Stars🍽️</i></strong></h3>
 <pre>
 <p align="center">
-<img src="https://img.shields.io/github/license/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/forks/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/BanallBot.svg">
-<a href="https://github.com/DilwarBot/AloneBanallBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=BanallBot&theme=blue-green"></a>
+<img src="https://img.shields.io/github/license/DilwarBot/AloneBanallBot.svg"> <img src="https://img.shields.io/github/forks/DilwarBot/AloneBanallBot.svg"> <img src="https://img.shields.io/github/stars/DilwarBot/AloneBanallBot.svg">
+<a href="https://github.com/DilwarBot/AloneBanallBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=AloneBanallBot&theme=blue-green"></a>
 <a href="https://github.com/DilwarBot/AloneBanallBot/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20Bot-black?style=for-the-badge&logo=github"></a>
 </P>
 </pre>
@@ -41,14 +41,14 @@
 <p>
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
-<strong>All credit Goes To</strong>&nbsp;<code><a href="https://t.me/HYPER_AD13">{🇮🇳} 𝙷𝚈𝙿𝙴𝚁 𝙺𝙸𝙽𝙶</a></code><br>
-<code>Telegram:- <a href="https://t.me/ShiningOff">@ShiningOff</a> | <a href="https://t.me/HeheReflex">@HeheReflex</a></code><br>
-<code>Github:- <a href="https://github.com/DilwarBot">ItsmeHyper13</a></code><br>
+<strong>All credit Goes To</strong>&nbsp;<code><a href="https://t.me/ALONE_WAS_BOT">{🇮🇳} 𝙰𝙻𝙾𝙽𝙴</a></code><br>
+<code>Telegram:- <a href="https://t.me/ALONE_WAS_BOT">ALONE</a> | <a href="https://t.me/ALONE_WAS_BOT">ALONE</a></code><br>
+<code>Github:- <a href="https://github.com/DilwarBot">DilwarBot</a></code><br>
 </details>
 </p>
 
 <p><h3><strong>Support 🇮🇳</strong></h3>
-<a href="https://t.me/SilentVerse"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/ALONE_CHATTING_WORLD"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
