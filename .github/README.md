@@ -1,8 +1,8 @@
-<h3 align="center"><strong><code>BanallBot 🚀</code></strong></h3>
+<h3 align="center"><strong><code>AloneBanallBot 🚀</code></strong></h3>
 
 <img src="https://telegra.ph/file/40d85b1acb12e9396a6bf.jpg" alt="Unable To serve You">
 <blockquote>
-<strong><i>❍&nbsp;Telegram banall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
+<strong><i>❍&nbsp;Telegram Alone banall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
 </blockquote>
 <p>
 <details>
@@ -33,8 +33,8 @@
 <pre>
 <p align="center">
 <img src="https://img.shields.io/github/license/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/forks/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/BanallBot.svg">
-<a href="https://github.com/ItsmeHyper13/BanallBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=BanallBot&theme=blue-green"></a>
-<a href="https://github.com/ItsmeHyper13/BanallBot/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20Bot-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DilwarBot/AloneBanallBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=BanallBot&theme=blue-green"></a>
+<a href="https://github.com/DilwarBot/AloneBanallBot/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20Bot-black?style=for-the-badge&logo=github"></a>
 </P>
 </pre>
 </p>
@@ -43,7 +43,7 @@
 <summary><h3><strong>Credits💕</strong></h3></summary>
 <strong>All credit Goes To</strong>&nbsp;<code><a href="https://t.me/HYPER_AD13">{🇮🇳} 𝙷𝚈𝙿𝙴𝚁 𝙺𝙸𝙽𝙶</a></code><br>
 <code>Telegram:- <a href="https://t.me/ShiningOff">@ShiningOff</a> | <a href="https://t.me/HeheReflex">@HeheReflex</a></code><br>
-<code>Github:- <a href="https://github.com/ItsmeHyper13">ItsmeHyper13</a></code><br>
+<code>Github:- <a href="https://github.com/DilwarBot">ItsmeHyper13</a></code><br>
 </details>
 </p>
 
@@ -52,8 +52,8 @@
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
-<a href = "https://github.com/ItsmeHyper13/BanallBot/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo=ItsmeHyper13/BanallBot" height="30px"/>
+<a href = "https://github.com/DilwarBot/AloneBanallBot/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo=DilwarBot/AloneBanallBot" height="30px"/>
 </a><br><br>
 <strong>Made with <a href="https://python.org"><code>Python🐍</code></a></strong>
 </p>
