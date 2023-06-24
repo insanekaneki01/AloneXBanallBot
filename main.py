@@ -1,4 +1,4 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @ALONE_WAS_BOT | @ShiningOff
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by ItsmeHyper13
 import logging
