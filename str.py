@@ -18,7 +18,7 @@ Add Me There And I will Ruined Group 👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [GitHub](https://github.com/{})
+❍ Code Owner » [Alone](https://t.me/ALONE_WAS_BOT)
 
 Type `/help` For Commands!
 """
@@ -31,7 +31,7 @@ __This Is BanAll Bot\nOnly My Owner Can Access This Bot👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [GitHub](https://github.com/{})
+❍ Code Owner » [Alone](https://t.me/ALONE_WAS_BOT)
 """
 
 hlptxt = """ Meow [{}](tg://user?id={}),
@@ -44,5 +44,5 @@ __Here is the help menu__:
 ❅ `/leave` - To leave group.
 ❅ `/restart` - To restart the bot.
 
-❍ Facing any kind of issue then just join @SilentVerse and ask there!!
+❍ Facing any kind of issue then just join @AlonesHeaven and ask there!!
 """
