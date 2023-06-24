@@ -34,16 +34,16 @@ sree = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "ItsmeHyper13"
-repo = "https://github.com/ItsmeHyper13/BanallBot"
+Owner = "https://t.me/ALONE_WAS_BOT"
+repo = "https://t.me/AloneXBots"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/SilentVerse"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/AlonesHeaven"), Button.url("••ʀєρο••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
+            file="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
             caption=startxt.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -57,7 +57,7 @@ async def start(event):
     if event.sender.id not in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
+            file="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
             caption=startxt2.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -72,12 +72,12 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/SilentVerse"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/AlonesHeaven"), Button.url("••ʀєρο••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
+            file="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
             caption=hlptxt.format(event.sender.first_name, event.sender.id),
             link_preview=False,
             buttons=buttns
@@ -165,8 +165,8 @@ async def leave(z):
                 await z.edit(str(e))
 
 
-print("Your Bot  Deployed Successfully ✅")
-print("Join @SilentVerse if you facing any kind of issue!!")
+print("Alone Banall Bot  Deployed Successfully ✅")
+print("Join @AlonesHeaven if you facing any kind of issue!!")
 
 
 
