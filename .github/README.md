@@ -22,8 +22,7 @@
 &nbsp;◍&nbsp;<code>/leave</code>&nbsp;:&nbsp;<strong>Do Check yourself.</strong><br>
 &nbsp;◍&nbsp;<code>/restart</code>&nbsp;:&nbsp;<strong>Do Check yourself.</strong>
 </details><details>
-<summary><h4><strong>❍&nbsp;Deploy On Heroku 🚀.</strong></h4></summary>
-<h3 align="center">
+<h3 a="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 
