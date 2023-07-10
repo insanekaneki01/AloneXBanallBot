@@ -22,12 +22,14 @@
 &nbsp;◍&nbsp;<code>/leave</code>&nbsp;:&nbsp;<strong>Do Check yourself.</strong><br>
 &nbsp;◍&nbsp;<code>/restart</code>&nbsp;:&nbsp;<strong>Do Check yourself.</strong>
 </details><details>
-<h3 a="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
+    
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 
 
 [![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/TeamAloneOp/AloneXBanallBot)
+
 </blockquote> 
 </details>
 </p>
