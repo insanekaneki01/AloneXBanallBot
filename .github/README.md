@@ -23,8 +23,12 @@
 &nbsp;◍&nbsp;<code>/restart</code>&nbsp;:&nbsp;<strong>Do Check yourself.</strong>
 </details><details>
 <summary><h4><strong>❍&nbsp;Deploy On Heroku 🚀.</strong></h4></summary>
-<blockquote><strong>Hey You can deploy this bot on <code>Heroku</code> very easly from here!!</strong><br><br>
-<a href="https://heroku.com/deploy?template=https://github.com/TeamAloneOp/AloneXBanallBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 
+
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/TeamAloneOp/AloneXBanallBot)
 </blockquote> 
 </details>
 </p>
