@@ -35,7 +35,7 @@ sree = TelegramClient(
 ).start(bot_token=BOT_TOKEN)
 
 Owner = "https://t.me/ALONE_WAS_BOT"
-repo = "https://t.me/AloneXBots"
+repo = "https://github.com/TeamAloneOp/AloneXBanallBot/fork"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
     buttns = [Button.url("••ѕυρροяτ••", "https://t.me/AlonesHeaven"), Button.url("••ʀєρο••", f'{repo}')]
@@ -84,7 +84,7 @@ async def start(event):
         )
     if event.sender.id not in OP:
         await event.reply(
-            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own bot from this [Repository⚡](https://github.com/ItsmeHyper13/BanallBot)",
+            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own bot from this [Repository⚡](https://github.com/TeamAloneOp/AloneXBanallBot)",
             link_preview=False,
         )       
 
