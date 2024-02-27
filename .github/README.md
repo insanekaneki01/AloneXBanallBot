@@ -2,7 +2,7 @@
 
 <img src="https://telegra.ph//file/d122a125988c66faa1393.jpg" alt="Unable To serve You">
 <blockquote>
-<strong><i>❍&nbsp;Telegram Alone banall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
+<strong><i>❍&nbsp;Telegram insan  banall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
 </blockquote>
 <p>
 <details>
